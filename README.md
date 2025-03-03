@@ -31,5 +31,3 @@ This project implements a reinforcement learning (RL) model using Deep Determini
 - Improve model stability and convergence.  
 - Investigate different reward functions and neural network architectures.  
 - Extend to more complex options (e.g., American or exotic options).  
-
-## Repository Structure  
